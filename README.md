@@ -8,3 +8,5 @@
 请尊重成果，有疑问可以QQ：1457436639联系我.
 
 第一次GitHub上传代码，如果我搞错了，希望多多指教，别喷，别骂。
+
+本仓库fork自[iskender933/Dingtalk_live_auto](https://github.com/iskender933/Dingtalk_live_auto/),仅用于学习交流,无其他用途
